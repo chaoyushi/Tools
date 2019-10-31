@@ -1,0 +1,11 @@
+Extract "Monokai.syntax" to
+
+C:\Users\<username>\AppData\Roaming\Dev-Cpp (Windows Vista/7) or
+C:\Documents and Settings\<username>\Application Data\Dev-Cpp (Windows XP)
+
+then go to Dev-C++ "Tools > Editor Options > Syntax > Color Speed Settings" and select "Monokai".
+
+Optionally, change "Right Margin" and "Highlight current line" colors to "Gray-80%" in the "General" tab.
+
+--
+http://rbardini.deviantart.com/
